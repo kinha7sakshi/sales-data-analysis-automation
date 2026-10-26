@@ -96,3 +96,7 @@ Through this project, I practiced:
 ## Project Goal
 
 The goal of this project is to understand how Python can automate repetitive Excel-based data analysis and reporting tasks.
+
+## Project Screenshot
+
+![Sales Report Screenshot](sales-report-screenshot.png)
